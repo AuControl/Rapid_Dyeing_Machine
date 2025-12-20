@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DownloadTask>
+  <ProjectInfo
+    DeviceVersion="16.0.0.0"
+    CreationTime="2025-12-17 21:00:20 (UTC)"
+    Runtime="SMART"
+    RtProjectName="Rapid_Dyeing.HMI_1[KTP400 Basic PN]"
+    RtProjectFolderName="Rapid_Dyeing.HMI_1[KTP400 Basic PN]"
+    DeviceType="KTP400_Basic"
+    DisplayOrientation="0"
+    RTReleaseNo="16.0.0.5"
+    ImageReleaseNo="16.0.0.5"
+    RTCV="16.0.0.0"
+    PRCV="16.0.0.0"
+    FirmwareFileName="KTP400\16.0.0.5\KTP400_V16_00_00_03.fwf"
+    RuntimeFileName="KTP400\16.0.0.5\KTP400_V16_00_00_03.fwf"
+    RuntimeAddonFolderName="KTP400" />
+  <FullDownload>pdata.srt</FullDownload>
+  <FullDownload
+    type="ADMINDATA">pdata.pwx</FullDownload>
+  <FullDownload>pdata.ORIE.cnk</FullDownload>
+  <FullDownload
+    type="RECIPE">pdata.R001.cnk</FullDownload>
+  <FullDownload
+    type="RECIPE">pdata.R002.cnk</FullDownload>
+  <FullDownload
+    type="RECIPE">pdata.R003.cnk</FullDownload>
+  <FullDownload>pdata.ETH0.cnk</FullDownload>
+  <FullDownload
+    type="RECIPE">pdata.R000.cnk</FullDownload>
+</DownloadTask>
