@@ -57,7 +57,7 @@ IGuiPage
 				id: qh402653187
 				width: 448
 				qm_listItem: qu402653187
-				qm_columnWidthList: [24, 60, 86, 78, 200]
+				qm_columnWidthList: [24, 86, 78, 55, 205]
 				color: "#ff84868c"
 				qm_tableHeaderTextColor: "#ffffffff"
 				qm_tableHeaderValueVarTextAlignmentHorizontal: Text.AlignLeft
@@ -94,15 +94,15 @@ IGuiPage
 		}
 		IGuiGraphicButton
 		{
-			id: q486539318
-			objId: 486539318
+			id: q486539317
+			objId: 486539317
 			x: 428
 			y: 197
 			width: 44
 			height: 32
 			qm_BorderCornerRadius: 1
 			qm_BorderWidth: 1
-			qm_ImageSource: "image://QSmartImageProvider/94#2#4#128#0#0"
+			qm_ImageSource: "image://QSmartImageProvider/92#2#4#128#0#0"
 			qm_Border.top: 15
 			qm_Border.bottom: 15
 			qm_Border.right: 3

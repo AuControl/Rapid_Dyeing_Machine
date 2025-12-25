@@ -48,7 +48,7 @@ IGuiPage
 			qm_list.qm_gridLineStyle: 0
 			qm_list.qm_gridLineWidth: 0
 			qm_list.qm_gridLineColor: "#ffffffff"
-			qm_columnTypeList: [0, 0, 0]
+			qm_columnTypeList: [0, 0, 0, 0]
 			totalColumnWidth: 450
 			qm_headerItem: qh402653188
 			IGuiListHeader
@@ -56,7 +56,7 @@ IGuiPage
 				id: qh402653188
 				width: 450
 				qm_listItem: qu402653188
-				qm_columnWidthList: [86, 78, 286]
+				qm_columnWidthList: [86, 78, 55, 231]
 				color: "#ff84868c"
 				qm_tableHeaderTextColor: "#ffffffff"
 				qm_tableHeaderValueVarTextAlignmentHorizontal: Text.AlignLeft
@@ -65,19 +65,19 @@ IGuiPage
 				qm_tableHeaderMarginRight: 1
 				qm_tableHeaderMarginBottom: 1
 				qm_tableHeaderMarginTop: 1
-				qm_noOfColumns: 3
+				qm_noOfColumns: 4
 				qm_tableHeaderHeight: 16
-				qm_leftImageID: 103
+				qm_leftImageID: 100
 				qm_leftTileTop: 3
 				qm_leftTileBottom: 15
 				qm_leftTileRight: 2
 				qm_leftTileLeft: 3
-				qm_middleImageID: 104
+				qm_middleImageID: 101
 				qm_middleTileTop: 2
 				qm_middleTileBottom: 15
 				qm_middleTileRight: 2
 				qm_middleTileLeft: 2
-				qm_rightImageID: 105
+				qm_rightImageID: 102
 				qm_rightTileTop: 3
 				qm_rightTileBottom: 15
 				qm_rightTileRight: 3
