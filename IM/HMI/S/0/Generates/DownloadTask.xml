@@ -2,7 +2,7 @@
 <DownloadTask>
   <ProjectInfo
     DeviceVersion="16.0.0.0"
-    CreationTime="2026-01-02 03:02:04 (UTC)"
+    CreationTime="2026-01-02 22:09:56 (UTC)"
     Runtime="SMART"
     RtProjectName="Rapid_Dyeing.HMI_1[KTP400 Basic PN]"
     RtProjectFolderName="Rapid_Dyeing.HMI_1[KTP400 Basic PN]"
@@ -28,4 +28,7 @@
   <FullDownload>pdata.ETH0.cnk</FullDownload>
   <FullDownload
     type="RECIPE">pdata.R000.cnk</FullDownload>
+  <License
+    type="WCSSBP9999">WinCC Sm@rtServer for SIMATIC Basic Panel</License>
+  <FullDownload>pdata.rld</FullDownload>
 </DownloadTask>
